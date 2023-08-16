@@ -1,0 +1,172 @@
+/* nav */
+.leftmarginpage{
+  margin-left: 250px;
+  padding: 5px;
+}
+
+.dashboardimg{
+ width: 100%;
+}
+.adminnavbar {
+    background-color: #060b26;
+    height: 80px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .logoutadminbtn{
+    position: absolute;
+    right: 5%;
+    padding: 10px 40px;
+    font-size: 18px;
+    border-radius: 25px;
+  }
+  .logonamedivadmin{
+    position: relative;
+    margin-left: 40px;
+    margin-top: 10px;
+   }
+   .logonameadmin{
+    color:white;
+    display: inline-block;
+    font-weight: bolder;
+    font-size: xx-large;
+    position: absolute;
+    top: 8px;
+    left: 60px;
+  }
+  
+  
+  .menu-bars {
+    margin-left: 2rem;
+    font-size: 2rem;
+    background: none;
+    text-decoration: none;
+    color: aliceblue;
+    background-color: #060b26;
+    border:2px solid white;
+    padding: 2px;
+  }
+  
+  .nav-menu {
+    background-color: #060b26;
+    width: 250px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    /* left: -100%; */
+    transition: 850ms;
+  }
+  
+  .nav-menu.active {
+    left: 0;
+    transition: 350ms;
+  }
+  
+  .nav-text {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 8px 0px 8px 16px;
+    list-style: none;
+    height: 60px;
+  }
+  
+  .nav-text a {
+    text-decoration: none;
+    color: #f5f5f5;
+    font-size: 18px;
+    width: 95%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0 16px;
+    border-radius: 4px;
+  }
+  
+  .nav-text a:hover {
+    background-color: #1a83ff;
+  }
+  
+  .nav-menu-items {
+    width: 100%;
+  }
+  
+  .navbar-toggle {
+    background-color: #060b26;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  
+  }
+
+
+  
+
+
+  /* page 2 signup data page start  */
+  .DeletebtnSignupadmin{
+    float: right;
+    margin: 0px 20px 10px 20px;
+  }
+  .exportexcelbtn{
+     width: 120px;
+    margin: 0px 10px;
+    padding: 7px 38px;
+    border-bottom-color: #060b26;
+  }
+
+  .adminpage2droupdowndiv{
+    float: right;
+  }
+  .adminpage2droupdown{
+      width: 132px;
+     margin: 0px 10px;
+     padding: 7px 38px;
+  }
+
+    /* page 2 signup data page end  */
+
+    /* unauthorizedpagecontainer start  */
+    .unauthorizedpagecontainer{
+      width: 50%;
+      margin: auto;
+    }
+
+    .unauthorizedpagecontainer img {
+      width: 100%;
+    }
+    .unauthorizedpagebtndiv{
+      margin-left: 30%;
+    }
+    .unauthorizedpagebtn{
+       padding: 10px 30px;
+       background-color: steelblue;
+    }
+
+    .unauthorizedpagebtnlink{
+      color: white;
+      text-decoration: none;
+    }
+    
+    /* unauthorizedpagecontainer end  */
+
+    /* page2.css css start */
+.page2tablestyle{
+  border: black;
+ margin: 10px;
+  width: 98%;
+}
+.page2tablestyle thead th{
+  background-color: #0d6efd !important;
+  color: white;
+}
+
+
+
+
+    /* page2.css css end */
