@@ -1,9 +1,9 @@
-1,for running user project open terminal and type "npm start"
+1, for running the user project open the terminal and type "npm start"
 
-2,for running express and mongodb open terminal and type "cd src/databaseitems"
+2, for running an express and Mongodb open terminal and type "cd src/databaseitems"
    and in this directory type "nodemon express.js"
 
-3,for open Admin pannel page type "/admin in Url "
+3, for open Admin pannel page type "/admin in Url "
      username: admin    
      password: 123
    
