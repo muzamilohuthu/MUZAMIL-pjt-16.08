@@ -1,3 +1,16 @@
+1,for running user project type "npm start"
+
+2,for running express and mongodb type "cd src/databaseitems"
+   and in this directory type "nodemon express.js"
+
+for open Admin pannel type "/admin in Url "
+     username: admin    
+     password: 123
+   
+   thank you
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
